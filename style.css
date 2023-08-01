@@ -1,0 +1,14 @@
+body{
+    margin-left: 20px;
+}
+
+div{
+    align-items: center;
+}
+
+.container{
+    height: 500px;
+    width: 300px;
+    border: 2px solid black;
+    display: grid;   
+}
